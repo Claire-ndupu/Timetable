@@ -1,0 +1,31 @@
+td{
+	text-align: center;
+	font-weight: bold;
+}
+table, th, td, tr{
+	border : 1px solid black;
+	position: relative;
+
+}
+.rotate{
+	transform: rotate(-90deg);
+	margin-left: -10em;
+	margin-right: -10em;
+}
+table,th, td{
+	border-collapse: collapse;
+}
+.contrast{
+	color: white;
+	background-color: black;
+}
+.space{
+	padding: 5px;
+}
+.red{
+	color: red;
+}
+.beige{
+	background-color: #DFCE9D;
+}
+
